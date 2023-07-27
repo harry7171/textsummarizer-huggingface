@@ -22,7 +22,7 @@ list_of_files = [
     "paramls.yaml",
     "app.py",
     "main.py",
-    "Dockerfile"
+    "Dockerfile",
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
